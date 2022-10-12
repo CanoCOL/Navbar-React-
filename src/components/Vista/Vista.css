@@ -1,0 +1,48 @@
+body{
+    background-color: #FFD000;
+}
+.main{
+    width: 80%;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#crear{
+
+
+    background:linear-gradient(rgba(90, 87, 87, 0.7), rgba(90, 87, 87, 0.7));
+    padding: 10px;
+    color: white;
+    border: none;
+    margin-top: 70px;
+    margin-left: 150px;
+    z-index: 1;
+}
+
+.galeria{
+    margin-top: 60px;
+    background-color:rgb(10, 10, 7) ;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.caja1{
+    width: 400px;
+    background-color: rgb(221, 11, 158);
+    margin-left:5%;
+    
+}
+.caja2{
+    width: 400px;
+    background-color: rgb(33, 52, 255);
+    margin-left: 5%;
+}
+.caja3{
+    width: 400px;
+    background-color: rgb(85, 6, 114);
+    margin-left: 5%;
+}
+
